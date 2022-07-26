@@ -3,7 +3,7 @@
 ## Introduction  
 本项目为C++11编写的Web服务器，解析了get请求，可处理静态资源，支持HTTP长连接，支持管线化请求，并实现了异步日志，记录服务器运行状态。  
 
-# 项目代码流程图
+# Project Code Flow Chart
 ![image](https://github.com/gittxy/WebServer/blob/master/%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/WebServer%E4%BB%A3%E7%A0%81%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 ## Technical points
